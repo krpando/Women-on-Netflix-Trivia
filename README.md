@@ -33,7 +33,14 @@ Como puede observarse en los archivos de Primera Entrega, si bien los objetivos 
 - Usuario/a puede elegir entre dos categorías: Series y Películas
 - Usuario/a puede ingresar a la primera pregunta de cada categoría y ver las alternativas
 
-**Documentación**
+**Documentación**  
+Prototipo de baja
+<p align="center">
+<img src="https://i.ibb.co/CvNy2kZ/Primer-Prototipo-Baja-1.jpg" alt="PrototipoBaja-1.1" width="200" height="280">
+<img src="https://i.ibb.co/KmPbdZz/Primer-Prototipo-Baja-2.jpg" alt="PrototipoBaja-1.2" width="200" height="280">
+<img src="https://i.ibb.co/ckf7Sjj/Primer-Prototipo-Baja-3.jpg" alt="PrototipoBaja-1.3" width="200" height="280">
+<img src="https://i.ibb.co/pjp5cfY/Primer-Prototipo-Baja-4.jpg" alt="PrototipoBaja-1.4" width="200" height="280">
+</p>
 
 Vistas maquetadas a las que puede acceder el usuario o usuaria:
 
@@ -55,7 +62,7 @@ Ver versión de [WON 1.0](https://codepen.io/krpando/pen/MxgaLM) en CodePen
 - Intentar la ejecución del 'Hacker Edition' y la aplicación de nuevas herramientas del HTML, JS y CSS.
 
 ## Segura entrega
-Fecha primera actualización: 21/11/18 (2.0) 
+Fecha primera actualización: 21/11/18 (2.0)   
 Fecha última actualización: 15/12/18 (2.1)
 
 En esta segunda entrega, se logra completar el 100% de los requerimientos básicos del proyecto, cumpliendo el objetivo establecido de crear un juego tipo trivia viable.
