@@ -45,7 +45,7 @@ Vistas maquetadas a las que puede acceder el usuario o usuaria:
 |:--:|:--:|
 |<p align="center"><img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="400" height="180"></p>|<p align="center"><img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="400" height="180"></p>|
 
-Ver primera versión de [WON 1.0](https://codepen.io/krpando/pen/MxgaLM) en CodePen
+Ver versión de [WON 1.0](https://codepen.io/krpando/pen/MxgaLM) en CodePen
 
 **Oportunidades de mejora y recomendaciones de iteración**
 - Modificar código que no permite la captura de evento del botón "Siguiente".
@@ -55,11 +55,22 @@ Ver primera versión de [WON 1.0](https://codepen.io/krpando/pen/MxgaLM) en Code
 - Intentar la ejecución del 'Hacker Edition' y la aplicación de nuevas herramientas del HTML, JS y CSS.
 
 ## Segura entrega
-Fecha: 21/11/18  
-Fecha de última modificación: 15/12/18
+Fecha primera actualización: 21/11/18 (2.0) 
+Fecha última actualización: 15/12/18 (2.1)
 
 En esta segunda entrega, se logra completar el 100% de los requerimientos básicos del proyecto, cumpliendo el objetivo establecido de crear un juego tipo trivia viable.
 
 Como puede observarse en los archivos de Segunda Entrega, los requerimientos fueron cubiertos en su totalidad, a excepción del contador regresivo correspondiente a la 'Hacker Edition', la cual puede considerarse para una siguiente iteración. 
 
-Se añadieron tres cambios en la fecha de última modificación correspondientes al `background` y `margin top` de la caja que muestra las secciones, permitiendo una mejor distribución de las vistas maquetadas. Así también se modificó el código de retorno a la sección de inicio, en vista que presentaba algunos fallos.
+Se añadieron tres cambios en la fecha de última modificación correspondientes al `background` y `margin top` de la caja que muestra las secciones, permitiendo una mejor distribución de las vistas maquetadas. Así también se modificó el código de retorno a la sección de inicio por fallos en la recarga de la página.
+
+**Documentación**
+
+<p align="center"><img src="https://i.ibb.co/Mk0s6RX/Segund-Entre.gif" alt="VersionSegunda" width="600" height="380"></p>
+
+Ver versión de [WON 2.1](https://codepen.io/krpando/pen/bmvEjR) en CodePen
+
+**Oportunidades de mejora y recomendaciones de iteración**
+- En esta versión aun persisten los errores en el código responsable del retorno a la sección de inicio, lo que ha ayudado a evidenciar limitaciones en el código utilizado para la captura de las respuestas de la trivia.
+- Con respecto al diseño general, existe posibilidad de mejorar su aspecto general, respetando la línea gráfica de Netfix y los principios del Visual Design.
+- Pensar en un diseño responsive e incluir el requerimiento de la cuenta regresiva pueden ser nuevos objetivos para la siguiente iteración.
