@@ -36,10 +36,14 @@ Como puede observarse en los archivos de Primera Entrega, si bien los objetivos 
 **Documentación**
 
 Vistas maquetadas a las que puede acceder el usuario o usuaria:
-|Vistas de inicio|Vistas de preguntas|
-|:---:|:---:|
-|<p align="center"><img src="https://i.ibb.co/qdX1Fm8/WON-Primera-Entrega-1.png" alt="VistaUno" width="380" height="150"/></p>|<p align="center"><img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="380" height="150"/></p>|
-|<p align="center"><img src="https://i.ibb.co/KF4jgg9/WON-Primera-Entrega-2.png" alt="VistaDos" width="380" height="180"/></p>|<p align="center"><img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="380" height="150"/></p>|
+
+|Vista de inicio|Vista de saludo y categorías|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/qdX1Fm8/WON-Primera-Entrega-1.png" alt="VistaUno" width="400" height="180"></p>|<p align="center"><img src="https://i.ibb.co/KF4jgg9/WON-Primera-Entrega-2.png" alt="VistaDos" width="400" height="200"></p>|
+
+|Vista de Series|Vista de Películas|
+|:--:|:--:|
+|<p align="center"><img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="400" height="180"></p>|<p align="center"><img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="400" height="180"></p>|
 
 Ver [WON en CodePen](https://codepen.io/krpando/pen/MxgaLM)
 
