@@ -32,3 +32,14 @@ Como puede observarse en los archivos de Primera Entrega, si bien los objetivos 
 - Usuario/a recibe saludo que incluye el nombre ingresado en la vista anterior
 - Usuario/a puede elegir entre dos categorías: Series y Películas
 - Usuario/a puede ingresar a la primera pregunta de cada categoría y ver las alternativas
+
+**Documentación**
+
+Vistas maquetadas a las que puede acceder el usuario o usuaria:
+
+<p align="center">
+<img src="https://i.ibb.co/qdX1Fm8/WON-Primera-Entrega-1.png" alt="VistaUno" width="480" height="200" />
+<img src="https://i.ibb.co/KF4jgg9/WON-Primera-Entrega-2.png" alt="VistaDos" width="480" height="220" />
+<img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="480" height="200" />
+<img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="480" height="200" />
+</p>
