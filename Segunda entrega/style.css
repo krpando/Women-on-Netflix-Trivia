@@ -1,0 +1,151 @@
+/*Fondo de la aplicación*/
+body{
+  background-image:url(https://buenavibra.es/wp-content/uploads/2017/11/netflix-estrenos-1200.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+/*Section 1*/
+section.s1{
+  margin:auto;
+  margin-top:50px;
+  padding-top: 50px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 18px; 
+  text-align: center; 
+  color: white; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+  width:700px;
+}
+input {
+  font-family: 'Lucida Console', Monaco, monospace; 
+  color: black; 
+  font-size: 15px; 
+  padding: 10px 25px; 
+  text-align: center;
+}
+button.b1 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: red;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+/*Section 2*/
+section.s2{
+  margin:auto;
+  margin-top:50px;
+  padding-top: 50px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 18px; 
+  text-align: center; 
+  color: black; 
+  background-color: white; 
+  border: 20px inset red; 
+  height: 400px;
+  width:700px;
+}
+h1.a{
+  font-size: 35px;
+  text-align: center;
+  font-family: 'Impact', Charcoal, sans-serif;
+}
+.flex-container {
+  display: flex;
+  flex-flow: row;
+}
+  .flex-container {
+  text-align: center;
+  justify-content: space-around;
+}
+button.b2 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: green;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+button.b3 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: blue;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+/*Section 3*/
+section.SERIES{
+  margin:auto;
+  margin-top:50px;
+  padding-top: 35px;
+  text-align: center;
+  color: green; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+  width:700px;
+}
+section.preguntas{
+  padding-right:35px;
+  padding-left:35px;
+  font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color: white; 
+  background-color: black; 
+  height: 150px;
+}
+button.b4{
+  display: inline-block;
+  padding: 10px 25px;
+  margin: 4px 2px;
+  font-size: 15px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color:#1F2021;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Tahoma', Geneva, sans-serif;
+}
+/*Section 4*/
+section.PELICULAS{
+  margin:auto;
+  margin-top:50px;
+  padding-top: 35px;
+  text-align: center;
+  color: blue; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+  width:700px;
+}
+/*Section Scores*/
+p.score{
+  font-size: 45px;
+  text-align: center;
+  font-family: 'Impact', Charcoal, sans-serif;
+  color: white; 
+}

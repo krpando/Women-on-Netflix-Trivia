@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Women on Netflix Trivia (Segunda Entrega)</title>
+  
+  
+  
+      <link rel="stylesheet" href="style.css">
+
+  
+</head>
+
+<body>
+
+  <!-- TRIVIA: Sección 1 -->
+<section class='s1' id='one'>
+  <center><img src='https://image.ibb.co/cELqgL/Sin-t-tulo-1.png'
+      alt='Mujeres en Netflix'
+      width='200'
+      height='150'
+      class='i1'></center>
+   <p>Ingresa tu nombre para empezar:</p>
+    <form>
+      <input type='text' id='name' placeholder='Escribe tu nombre'/></br>     
+    </form></br>
+  <button type='button' 
+          id='ready' 
+          class='b1'
+          onclick='welcomeGamer()'>¡Empecemos!</button>
+</section>
+<!-- TRIVIA: Sección 2 -->
+<section class='s2' id='two'>
+  <h1 class='a' id='choices'></h1>
+  <p class='p2'>Elige una categoría para jugar</p>
+<div class='flex-container'>
+  <div><img src='https://image.ibb.co/nyHd1L/0004830216.png'
+       alt='Eleven'
+       width=55%
+       class='i2'></div>  
+  <div><img src='https://image.ibb.co/bXVLFf/Cluless.png'
+       alt='Clueless'
+        width=65%
+       class='i2'></div>
+  </div>
+<div class='flex-container'>
+  <div><button type='button' 
+          class='b2' 
+          id='category1'
+          value='Series'
+          onclick='category1()'>Series</button></div>
+   <div><button type='button'
+          class='b3' 
+          id='category2'
+          value='Movies' 
+          onclick='category2()'>Películas</button></div>
+  </div>
+</section>
+<!-- TRIVIA: Sección Series -->
+<section class='SERIES' id='three'>
+  <h1 class='a'>Categoría: Series</h1>
+   <!--Pregunta 1 Series-->
+   <section class='preguntas' id='3a'>
+     <h4>Pregunta 1:</br>
+     ¿Cuál fue la primera serie española producida por Netflix?</h4></br>
+        <button class='b4' id='o1'>A. La casa de papel</button></br>
+        <button class='b4' id='o2'>B. Las chicas del cable</button></br>
+        <button class='b4' id='o3'>C. El barco</button></br>
+    </section>
+    <!--Pregunta 2 Series-->
+    <section class='preguntas' id='3b'>
+      <h4>Pregunta 2:</br>
+     Serie sobre mujeres en prisión que cuenta con 6 temporadas</h4></br>
+        <button class='b4' id='o4'>A. Orange is the new black</button></br>
+        <button class='b4' id='o5'>B. Vis a vis</button></br>
+        <button class='b4' id='o6'>C. Glow</button></br>
+    </section>
+    <!--Pregunta 3 Series-->
+    <section class='preguntas' id='3c'>
+      <h4>Pregunta 3:</br>
+     ¿Cuál es el nombre de la sense8 'hacker' en la serie de las hermanas Wachowski?</h4></br>
+        <button class='b4' id='o7'>A. Jessica Jones</button></br>
+        <button class='b4' id='o8'>B. Riley Blue</button></br>
+        <button class='b4' id='o9'>C. Nomi Marks</button></br>
+    </section></section>
+<section class='PELICULAS' id='four'>
+  <h1 class='a'>Categoría: Películas</h1>
+   <!--Pregunta 1 Películas-->
+   <section class='preguntas' id='4a'>
+     <h4>Pregunta 1:</br>
+     Película con Julia Roberts en la que actúa de una maestra de arte que enseña a sus conservadoras alumnas a cuestionar sus tradicionales roles sociales</h4></br>
+        <button class='b4' id='o10'>A. Malas enseñanzas</button></br>
+        <button class='b4' id='o11'>B. La sonrisa de la Mona Lisa</button></br>
+        <button class='b4' id='o12'>C. Comer, rezar, amar</button></br>
+    </section>
+    <!--Pregunta 2 Películas-->
+    <section class='preguntas' id='4b'>
+      <h4>Pregunta 2:</br>
+     Película sobre una esposa que ayuda a su esposo a convertirse en la mujer que él siempre quiso ser</h4></br>
+        <button class='b4' id='o13'>A. Carol</button></br>
+        <button class='b4' id='o14'>B. No soy un hombre fácil</button></br>
+        <button class='b4' id='o15'>C. La chica danesa</button></br>
+    </section>
+    <!--Pregunta 3 Películas-->
+    <section class='preguntas' id='4c'>
+      <h4>Pregunta 3:</br>
+     ¿Cuál es el nombre de la actriz latina que interpreta a la artista mexicana Frida Kahlo?</h4></br>
+        <button class='b4' id='o16'>A. Salma Hayek</button></br>
+        <button class='b4' id='o17'>B. Sofía Vergara</button></br>
+        <button class='b4' id='o18'>C. Penélope Cruz</button></br>
+    </section></section>
+<section class='s1' id='final1'>
+  <h1>RESULTADOS</h1>
+  <p>Tu score en la categoría Series es:</p></br>
+  <p class='score' id='scoreseries'></p></br>
+  <button type='button' 
+          id='refresh' 
+          class='b1'
+          onclick='reload()'>Volver a jugar</button>
+</section>
+<section class='s1' id='final2'>
+  <h1>RESULTADOS</h1>
+  <p>Tu score en la categoría Películas es:</p></br>
+  <p class='score' id='scoremovies'></p></br>
+  <button type='button' 
+          id='refresh' 
+          class='b1'
+          onclick='reload()'>Volver a jugar</button>
+</section>
+      <script  src="index.js"></script>
+
+    </body>
+</html>
