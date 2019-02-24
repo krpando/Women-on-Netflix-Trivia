@@ -36,10 +36,16 @@ Como puede observarse en los archivos de Primera Entrega, si bien los objetivos 
 **Documentación**
 
 Vistas maquetadas a las que puede acceder el usuario o usuaria:
+|Vistas de inicio|Vistas de preguntas|
+|:---:|:---:|
+|<p align="center"><img src="https://i.ibb.co/qdX1Fm8/WON-Primera-Entrega-1.png" alt="VistaUno" width="380" height="150"/></p>|<p align="center"><img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="380" height="150"/></p>|
+|<p align="center"><img src="https://i.ibb.co/KF4jgg9/WON-Primera-Entrega-2.png" alt="VistaDos" width="380" height="180"/></p>|<p align="center"><img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="380" height="150"/></p>|
 
-<p align="center">
-<img src="https://i.ibb.co/qdX1Fm8/WON-Primera-Entrega-1.png" alt="VistaUno" width="480" height="200" />
-<img src="https://i.ibb.co/KF4jgg9/WON-Primera-Entrega-2.png" alt="VistaDos" width="480" height="220" />
-<img src="https://i.ibb.co/MksPPWt/WON-Primera-Entrega-3.png" alt="VistaSeries" width="480" height="200" />
-<img src="https://i.ibb.co/bLFLcWS/WON-Primera-Entrega-4.png" alt="VistaPeliculas" width="480" height="200" />
-</p>
+Ver [WON en CodePen](https://codepen.io/krpando/pen/MxgaLM)
+
+**Oportunidades de mejora y recomendaciones de iteración**
+- Modificar código que no permite la captura de evento del botón "Siguiente".
+- Eliminar el código del contador de tiempo, en vista que no es funcional y obstaculiza el correcto funcionamiento de otras partes del código.
+- Revisión de colores, fuente y tamaño de texto en la sección de preguntas, así como el espacio asignado a las secciones en general.
+- Implementar los demás requerimientos para completar al 100% el objetivo del proyecto.
+- Intentar la ejecución del Hacker Edition y la aplicación de nuevas herramientas del HTML, JS y CSS.
