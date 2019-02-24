@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>TRIVIA: Women on Netflix</title>
+  
+  
+  
+      <link rel="stylesheet" href="style.css">
+
+  
+</head>
+
+<body>
+
+  <section class='s1' id='one'>
+  <center><img src='https://image.ibb.co/cELqgL/Sin-t-tulo-1.png'
+      alt='Mujeres en Netflix'
+      width='200'
+      height='150'
+      class='i1'></center>
+   <p>Ingresa tu nombre para empezar:</p>
+    <form>
+      <input type='text' id='name' placeholder='Escribe tu nombre'/></br>     </form>         </br>
+  <button type='button' 
+          id='ready' 
+          class='b1'
+          onclick='welcomeGamer()'>¡Empecemos!</button>
+</section>
+
+<section class='s2' id='two'>
+  <h1 id='choices'></h1>
+  <p class='p2'>Elige una categoría para jugar</p>
+<div class='flex-container'>
+  <div><img src='https://image.ibb.co/nyHd1L/0004830216.png'
+       alt='Eleven'
+       width=55%
+       class='i2'></div>  
+  <div><img src='https://image.ibb.co/bXVLFf/Cluless.png'
+       alt='Clueless'
+        width=65%
+       class='i2'></div>
+  </div>
+<div class='flex-container'>
+  <div><button type='button' 
+          class='s' 
+          id='category1'
+          value='Series'
+          onclick='category1()'>Series</button></div>
+   <div><button type='button'
+          class='m' 
+          id='category2'
+          value='Movies' 
+          onclick='category2()'>Películas</button></div>
+  </div>
+</section>
+
+<section class='SERIES' id='three'>
+  <h1>Categoría: Series</h1>
+  <button class='CLOCK' type='text' id='CuentaAtras'></button>
+  <div><h3>Pregunta 1:</br>
+    ¿Cuál fue la primera serie española producida por Netflix?</h3>
+   <p id='1a'>(a) La casa de papel</p> 
+   <p id='1b'>(b) Las chicas del cable</p> 
+   <p id='1c'>(c) El barco</p></div> 
+<input type='text' id='respuesta1'placeholder='Ingresa a, b o c'/></br>
+<button class='next' onclick='next()'>Siguiente</button>
+</section>
+
+<section class='SERIES' id='four'>
+  <h1>Categoría: Películas</h1>
+  <button class='CLOCK' type='text' id='CuentaAtras'></button>
+  <div><h3>Pregunta 1:</br>
+    Película con Julia Roberts en la que actúa de una maestra de arte que enseña a sus conservadoras alumnas a cuestionar sus tradicionales roles sociales.</h3>
+   <p id='1a'>(a) Malas enseñanzas</p> 
+   <p id='1b'>(b) La sonrisa de la Mona Lisa</p> 
+   <p id='1c'>(c) Comer, rezar, amar</p></div> 
+<input type='text' id='respuesta4'placeholder='Ingresa a, b o c'/></br>
+<button class='next' onclick='next()'>Siguiente</button>
+</section>
+<section class='s5' id='five'>
+  <h1>Resultados</h1>
+<button type='button'onclick='regresar()'>Regresar al menú</button>
+</section>
+  
+  
+
+    <script  src="index.js"></script>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,158 @@
+/*Section 1*/
+section.s1{
+  padding-top: 50px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 18px; 
+  text-align: center; 
+  color: white; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+}
+input {
+  font-family: 'Lucida Console', Monaco, monospace; 
+  color: black; 
+  font-size: 15px; 
+  padding: 10px 25px; 
+  text-align: center;
+}
+button.b1 {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: red;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+/*Section 2*/
+section.s2{
+  padding-top: 50px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 18px; 
+  text-align: center; 
+  color: black; 
+  background-color: white; 
+  border: 20px inset red; 
+  height: 400px;
+}
+h1{font-size: 35px;
+  text-align: center;
+  font-family: 'Impact', Charcoal, sans-serif;
+}
+.flex-container {
+  display: flex;
+  flex-flow: row;
+}
+  .flex-container {
+  text-align: center;
+  justify-content: space-around;
+}
+button.s {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: green;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+button.m {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color: blue;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  font-family: 'Impact', Charcoal, sans-serif;
+} 
+/*Section 3*/
+section.SERIES{
+  padding-top: 35px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 12px;
+  text-align: center;
+  color: white; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+}
+
+button.CLOCK{
+  display: inline-block;
+  padding: 8px 12px;
+  font-size: 15px;
+  text-align: center;
+  outline: none;
+  color: black;
+  background-color:#808080;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Lucida Console', Monaco, monospace;
+}
+
+button {
+  display: inline-block;
+  padding: 8px 12px;
+  font-size: 12px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color:#808080;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Lucida Console', Monaco, monospace;
+}
+
+button.res {
+  padding: 8px 12px;
+  font-size: 12px;
+  text-align: center;
+  outline: none;
+  color: white;
+  background-color:red;
+  cursor:pointer;
+  border: none;
+  border-radius: 15px;
+  font-family: 'Lucida Console', Monaco, monospace;
+}
+
+
+/*Section 4*/
+section.s4{
+  padding-top: 5px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 12px; 
+  text-align: center; 
+  color: white; 
+  background-color: black; 
+  border: 20px inset red; 
+  height: 400px;
+}
+/*Section 5*/
+section.s5{
+  padding-top: 50px;
+  font-family: 'Lucida Console', Monaco, monospace; 
+  font-size: 15px; 
+  text-align: center; 
+  color: black; 
+  background-color: white; 
+  border: 20px inset red; 
+  height: 400px;
+}
