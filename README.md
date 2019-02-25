@@ -33,8 +33,10 @@ Como puede observarse en los archivos de Primera Entrega, si bien los objetivos 
 - Usuario/a puede elegir entre dos categorías: Series y Películas
 - Usuario/a puede ingresar a la primera pregunta de cada categoría y ver las alternativas
 
-**Documentación**  
-Prototipo de baja
+**Documentación**   
+
+Prototipo de baja  
+
 <p align="center">
 <img src="https://i.ibb.co/CvNy2kZ/Primer-Prototipo-Baja-1.jpg" alt="PrototipoBaja-1.1" width="200" height="280">
 <img src="https://i.ibb.co/KmPbdZz/Primer-Prototipo-Baja-2.jpg" alt="PrototipoBaja-1.2" width="200" height="280">
@@ -73,6 +75,8 @@ Se añadieron tres cambios en la fecha de última modificación correspondientes
 
 **Documentación**
 
+Vistas maquetadas en esta segunda iteración:
+
 <p align="center"><img src="https://i.ibb.co/Mk0s6RX/Segund-Entre.gif" alt="VersionSegunda" width="600" height="380"></p>
 
 Ver versión de [WON 2.1](https://codepen.io/krpando/pen/bmvEjR) en CodePen
@@ -81,3 +85,33 @@ Ver versión de [WON 2.1](https://codepen.io/krpando/pen/bmvEjR) en CodePen
 - En esta versión aun persisten los errores en el código responsable del retorno a la sección de inicio, lo que ha ayudado a evidenciar limitaciones en el código utilizado para la captura de las respuestas de la trivia.
 - Con respecto al diseño general, existe posibilidad de mejorar su aspecto general, respetando la línea gráfica de Netfix y los principios del Visual Design.
 - Pensar en un diseño responsive e incluir el requerimiento de la cuenta regresiva pueden ser nuevos objetivos para la siguiente iteración.
+
+## Tercera entrega
+Fecha primera actualización: 26/02/19 (3.1)
+
+En esta tercera entrega se prioriza trabajar en base a los lineamentos del UX design con la finalidad de mejorar el producto contruído y mejorar la funcionalidad en una segunda actualización. Para la presente entrega se establecen los siguientes objetivos:
+
+- Construir un prototipo de alta fidelidad que permita testear la solución ideal.
+- Integrar las recomendaciones que surjan del testeo del prototipo y el feedback de observadores externos.
+- Aplicar al código los nuevos conceptos de Javascript obtenidos durante los primeros meses del bootcamp, respetando el requerimiento técnico de usar Vanilla JS y restringir el uso frameworks.
+- Incluir el contador regresivo al 
+- Maquetar la web responsive, utilizando el concepto de 'mobile first'.
+
+**Documentación**
+
+Iteración del prototipo de baja
+
+<p align="center">
+<img src="https://i.ibb.co/xSBsk5X/Segundo-Prototipo-Baja-1.jpg" alt="PrototipoBaja-2.1" width="200" height="300">
+<img src="https://i.ibb.co/nQm33Q1/Segundo-Prototipo-Baja-2.jpg" alt="PrototipoBaja-2.2" width="200" height="300">
+<img src="https://i.ibb.co/VDWyk9Q/Segundo-Prototipo-Baja-3.jpg" alt="PrototipoBaja-2.3" width="200" height="300">
+</p>
+<p align="center">
+<img src="https://i.ibb.co/YRG48Wc/Segundo-Prototipo-Baja-4.jpg" alt="PrototipoBaja-2.4" width="200" height="300">
+<img src="https://i.ibb.co/Qfqfc11/Segundo-Prototipo-Baja-5.jpg" alt="PrototipoBaja-2.5" width="200" height="300">
+<img src="https://i.ibb.co/yy2TG77/Segundo-Prototipo-Baja-6.jpg" alt="PrototipoBaja-2.6" width="200" height="300">
+</p>
+
+Iteración del prototipo de alta
+
+Ver prototipo navegable de [WON 3.1](https://www.figma.com/proto/OCo1BjAJPCFRdx8XiSpyFBbm/Trivia-Mujeres-en-Netflix?node-id=6%3A67&viewport=354%2C641%2C0.267584&scaling=scale-down) en Figma
