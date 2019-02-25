@@ -114,4 +114,6 @@ Iteración del prototipo de baja
 
 Iteración del prototipo de alta
 
+<p align="center"><img src="https://i.ibb.co/hZnzRfv/Tercera-Entrega.gif" alt="VersionTercera" width="280" height="550"></p>
+
 Ver prototipo navegable de [WON 3.1](https://www.figma.com/proto/OCo1BjAJPCFRdx8XiSpyFBbm/Trivia-Mujeres-en-Netflix?node-id=6%3A67&viewport=354%2C641%2C0.267584&scaling=scale-down) en Figma
